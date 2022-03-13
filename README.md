@@ -2,7 +2,7 @@
 Biovision hierarchy files to internal deepmimic representation converter.
 ![](gif/example.gif)
 
-#Build instructions(for Ubuntu 20.04):
+# Build instructions(for Ubuntu 20.04):
  1. sudo apt-get install libeigen3-dev
  2. mkdir build && cd build
  3. cmake ..
