@@ -1,5 +1,7 @@
 # Intro 
 Biovision hierarchy files to internal deepmimic representation converter.
+
+Original video -> Motion Capture data(Bvh) -> Deepmimic
 ![](gif/example.gif)
 
 # Build instructions(for Ubuntu 20.04):
